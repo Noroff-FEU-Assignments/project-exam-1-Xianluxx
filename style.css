@@ -2,6 +2,12 @@
   display: none;
 }
 
+/* /*text/ */
+body {
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+  }
+
 /* /*form-style/ */
 .form-container {
     max-width: 500px;
